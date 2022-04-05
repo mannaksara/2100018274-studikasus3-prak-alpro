@@ -1,0 +1,11 @@
+==========================================
+Nama Pembeli      : s
+Menu Makanan Anda : Ayam Geprek
+Harga Makanan     : Rp.21000 x 1
+Jarak Rumah Anda  : 1 km
+Ongkos Kirim Anda : Rp.15000
+		--------------- +
+                    Rp.33000
+Uang Pembayaran : Rp.999999999
+Uang Kembalian  : Rp.999966999
+==========================================

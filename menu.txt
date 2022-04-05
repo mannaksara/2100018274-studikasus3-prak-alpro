@@ -1,0 +1,9 @@
+			(Pilih Menu Makanan)
+---------------------------------------------------------------------
+|	[1] Ayam Geprek   : Rp.21000				|
+|	[2] Ayam Goreng	  : Rp.17000				|
+|	[3] Udang Goreng  : Rp.19000				|
+|	[4] Cumi Goreng   : Rp.20000				|
+|	[5] Ayam Bakar    : Rp.25000				|
+---------------------------------------------------------------------
+		(Masukkan Menu Makanan berdasarkan Nomor)
